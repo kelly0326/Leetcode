@@ -1,4 +1,4 @@
-# Python Leetcode 
+# Python
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
         lst = []
