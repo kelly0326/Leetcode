@@ -1,4 +1,4 @@
-# Python Solution updated
+# Python Solution
 class Solution:
     def leftRightDifference(self, nums: List[int]) -> List[int]:
         def left_sum(nums):
