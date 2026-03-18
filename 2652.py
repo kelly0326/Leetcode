@@ -1,4 +1,4 @@
-# Python solution updated
+# Python solution finalized
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
         lst = []
